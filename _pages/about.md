@@ -18,5 +18,9 @@ Previous to her immersion into urban wildlife, she developed her doctorate thesi
 
 When she is not running models, and sometimes while the models are running, Tiziana is a mother to Leonardo, 7 and Emma, 4, who enjoy hiking the Ontario trails and identifying urban mammals from the camera trap dataset. 
 
-(images/beach.jpg)
 
+<figure>
+    <img src="/images/beach.jpg"
+         alt="Albuquerque, New Mexico">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
