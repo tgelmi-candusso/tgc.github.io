@@ -3,7 +3,7 @@ title: "Estimating seed dispersal distance: a comparison of methods using animal
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We investigated two plant species with different life history traits, Leonia cymosa and Parkia panurensis, exclusively dispersed by two tamarin species, Saguinus mystax and Leontocebus nigrifrons. We compared seed dispersal distance obtained from direct observations, genetic identification of mother plants from seed coats, parentage analysis of seedlings/saplings, and phenomenological and mechanistic modeling approaches.'
-date: 2010-02-04
+date: 2019-07-25
 venue: 'Ecology and Evolution'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5422'
 citation: 'Gelmi-Candusso, T. A., Bialozyt, R., Slana. D., Zarate–Gomez R., Heymann, E. W., and Heer, K. (2019). Estimating seed dispersal distance: a comparison of methods using animal movement and plant genetic data on two primate–dispersed Neotropical plant species. <i>Ecology and Evolution</i>. https://doi.org/10.1002/ece3.5422'
