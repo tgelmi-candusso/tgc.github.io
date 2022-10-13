@@ -20,7 +20,9 @@ When she is not running models, and sometimes while the models are running, Tizi
 
 
 <figure>
-    <img src="/images/momlife.jpg" width="50" height="25"
+    <img src="/images/momlife.jpg" 
+         width="25" 
+         height="12"
          alt="Tiziana at Humber Valley, Toronto">
     <figcaption>Humber Valley, Toronto.</figcaption>
 </figure>
