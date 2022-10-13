@@ -19,10 +19,4 @@ Previous to her immersion into urban wildlife, she developed her doctorate thesi
 When she is not running models, and sometimes while the models are running, Tiziana is a mother to Leonardo, 7 and Emma, 4, who enjoy hiking the Ontario trails and identifying urban mammals from the camera trap dataset. 
 
 
-[comment]: <> (<figure>
-    <img src="/images/momlife.jpg" 
-         width="25" 
-         height="12"
-         alt="Tiziana at Humber Valley, Toronto">
-    <figcaption>Humber Valley, Toronto.</figcaption>
-</figure>)
+ <!╌ <figure> <img src="/images/momlife.jpg" width="25" height="12" alt="Tiziana at Humber Valley, Toronto"><figcaption>Humber Valley, Toronto.</figcaption></figure> ╌> 
