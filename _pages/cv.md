@@ -11,13 +11,13 @@ redirect_from:
 
 
 Education
-======
+---------------
 * B.S. in Biology, University of Padova, 2010
 * M.S. in Environmental Biology, University of Trieste, 2012
 * Ph.D in Biodiversity and Ecology, University of Gottingen, 2019
 
 Work experience
-======
+---------------
 * 2019 - ongoing: Research fellowship
   * University of Toronto
   * Duties included: Habitat selection models, landscape connectivity, Species occupancy, Agent-based modeling, Machine learning
@@ -43,29 +43,29 @@ Work experience
 
 
 Publications
-======
+---------------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+---------------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+---------------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
+---------------
 * Lead partner for Toronto in the Urban Wildlife Information Network (UWIN)
 * Selection panel for undergraduate and graduate awards at EEB, University of Toronto
 * Mentorship of ten undergraduate student and one graduate student at EEB, University of Toronto.
 
 Full version
-======
+---------------
 Download [Full Academic CV]("files/Academic CV  Tiziana A. Gelmi Candusso_update_October2022.pdf")
