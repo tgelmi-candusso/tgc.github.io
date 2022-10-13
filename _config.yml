@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TGC"
+title                    : "Tiziana Gelmi Candusso"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tiziana Gelmi"
+  name             : "Tiziana A. Gelmi Candusso"
   avatar           : "DSC_0554 (1)2.jpg"
-  bio              : "Movement ecologist at the University of Toronto"
+  bio              : "Research fellow at the University of Toronto"
   location         : "Toronto, Canada"
   employer         :  
   pubmed           : 
