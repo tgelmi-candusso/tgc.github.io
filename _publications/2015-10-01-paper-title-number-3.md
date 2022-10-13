@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Effects of zoochory on the spatial genetic structure of plant populations."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Spatial genetic structure (SGS) of plants results from the nonrandom distribution of related individuals. SGS provides information on gene flow and spatial patterns of genetic diversity within populations. We compared the proportions of studies with SGS among groups and tested for differences in strength of SGS using Sp statistics. The presence of SGS differed among taxonomic groups, with reduced presence in plants dispersed by birds. Strength of SGS was instead significantly influenced by the behaviour of seed dispersal vectors, with higher SGS in plant species dispersed by animals with behavioural traits that result in short seed dispersal distances'
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Molecular Ecology'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14351'
+citation: 'Gelmi-Candusso, T. A., Heymann, E. W., and Heer, K. (2017). Effects of zoochory on the spatial genetic structure of plant populations. <i>Molecular Ecology</i>. 26, 5896–5910. https://doi:10.1111/mec.14351.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Spatial genetic structure (SGS) of plants results from the nonrandom distribution of related individuals. SGS provides information on gene flow and spatial patterns of genetic diversity within populations. We compared the proportions of studies with SGS among groups and tested for differences in strength of SGS using Sp statistics. The presence of SGS differed among taxonomic groups, with reduced presence in plants dispersed by birds. Strength of SGS was instead significantly influenced by the behaviour of seed dispersal vectors, with higher SGS in plant species dispersed by animals with behavioural traits that result in short seed dispersal distances
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.14351)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: 'Gelmi-Candusso, T. A., Heymann, E. W., and Heer, K. (2017). Effects of zoochory on the spatial genetic structure of plant populations. <i>Molecular Ecology</i>. 26, 5896–5910. https://doi:10.1111/mec.14351.'
