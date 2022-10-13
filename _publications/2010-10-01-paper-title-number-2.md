@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Estimating seed dispersal distance: a comparison of methods using animal movement and plant genetic data on two primate–dispersed Neotropical plant species"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'We investigated two plant species with different life history traits, Leonia cymosa and Parkia panurensis, exclusively dispersed by two tamarin species, Saguinus mystax and Leontocebus nigrifrons. We compared seed dispersal distance obtained from direct observations, genetic identification of mother plants from seed coats, parentage analysis of seedlings/saplings, and phenomenological and mechanistic modeling approaches.'
+date: 2010-02-04
+venue: 'Ecology and Evolution'
+paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5422'
+citation: 'Gelmi-Candusso, T. A., Bialozyt, R., Slana. D., Zarate–Gomez R., Heymann, E. W., and Heer, K. (2019). Estimating seed dispersal distance: a comparison of methods using animal movement and plant genetic data on two primate–dispersed Neotropical plant species. <i>Ecology and Evolution</i>. https://doi.org/10.1002/ece3.5422'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
+'We investigated two plant species with different life history traits, Leonia cymosa and Parkia panurensis, exclusively dispersed by two tamarin species, Saguinus mystax and Leontocebus nigrifrons. We compared seed dispersal distance obtained from direct observations, genetic identification of mother plants from seed coats, parentage analysis of seedlings/saplings, and phenomenological and mechanistic modeling approaches.'
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.5422)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'Gelmi-Candusso, T. A., Bialozyt, R., Slana. D., Zarate–Gomez R., Heymann, E. W., and Heer, K. (2019). Estimating seed dispersal distance: a comparison of methods using animal movement and plant genetic data on two primate–dispersed Neotropical plant species. <i>Ecology and Evolution</i>. https://doi.org/10.1002/ece3.5422'
