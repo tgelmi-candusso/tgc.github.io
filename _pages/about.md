@@ -21,6 +21,6 @@ When she is not running models, and sometimes while the models are running, Tizi
 
 <figure>
     <img src="/images/beach.jpg"
-         alt="Albuquerque, New Mexico">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+         alt="two very cute wild lives being silly, Toronto">
+    <figcaption>Urban wild lives at Toronto.</figcaption>
 </figure>
