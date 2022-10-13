@@ -1,0 +1,16 @@
+---
+title: "Estimating seed dispersal distance: a comparison of methods using animal movement and plant genetic data on two primate–dispersed Neotropical plant species"
+collection: publications
+permalink: /publication/2019-thesis
+excerpt: 'The thesis explores the relationship between frugivore behavior and plant spatial genetics. The work assesses i) the literature on frugivore behavior and resulting spatial genetic structure, finding  the patterns between animal movement and plant population genetics resulting on this [review](https://tgelmi-candusso.github.io/publication/2015-10-01-paper-title-number-3). ii) the methodology behind the estimation of seed dispersal distance comparing observational, molecular and modeling methods, resulting on this [paper](https://tgelmi-candusso.github.io/publication/2010-10-01-paper-title-number-2). iii) the relationship between primate foraging behavior, plant phenology and population genetics iv) the effect of frugivore territoriality on plant population genetics; v) the development of microsatellite markers for neotropical trees and validates the use of FTA cards as a method for sampling plant DNA material in the Neotropics.'
+date: 2019-03-13
+venue: 'Ecology and Evolution'
+paperurl: 'http://dx.doi.org/10.53846/goediss-7285'
+citation: 'Gelmi-Candusso, T. A. (2019). Frugivore behavior and plant spatial genetic. <i>Doctorate thesis</i>. http://dx.doi.org/10.53846/goediss-7285'
+
+---
+'The thesis explores the relationship between frugivore behavior and plant spatial genetics. The work assesses i) the literature on frugivore behavior and resulting spatial genetic structure, finding  the patterns between animal movement and plant population genetics resulting on this [review](https://tgelmi-candusso.github.io/publication/2015-10-01-paper-title-number-3); ii) the methodology behind the estimation of seed dispersal distance comparing observational, molecular and modeling methods, resulting on this [paper](https://tgelmi-candusso.github.io/publication/2010-10-01-paper-title-number-2); iii) the relationship between primate foraging behavior, plant phenology and population genetics; iv) the effect of frugivore territoriality on plant population genetics; v) the development of microsatellite markers for neotropical trees and validates the use of FTA cards as a method for sampling plant DNA material in the Neotropics.
+
+[Download thesis here](http://dx.doi.org/10.53846/goediss-7285)
+
+Recommended citation: 'Gelmi-Candusso, T. A. (2019). Frugivore behavior and plant spatial genetics. (Doctoral dissertation, Georg-August-Universität Göttingen, Göttingen, Germany) http://dx.doi.org/10.53846/goediss-7285'
