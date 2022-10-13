@@ -20,7 +20,7 @@ When she is not running models, and sometimes while the models are running, Tizi
 
 
 <figure>
-    <img src="/images/beach.jpg"
+    <img src="/images/beach.jpg" width="100" height="50"
          alt="two very cute wild lives being silly, Toronto">
     <figcaption>Urban wild lives at Toronto.</figcaption>
 </figure>
