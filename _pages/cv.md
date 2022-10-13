@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Biology, University of Padova, 2010
@@ -60,8 +61,11 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
+======
 * Lead partner for Toronto in the Urban Wildlife Information Network (UWIN)
 * Selection panel for undergraduate and graduate awards at EEB, University of Toronto
 * Mentorship of ten undergraduate student and one graduate student at EEB, University of Toronto.
 
+Full version
+======
 Download [Full Academic CV]("files/Academic CV  Tiziana A. Gelmi Candusso_update_October2022.pdf")
