@@ -68,4 +68,4 @@ Service and leadership
 
 Full version
 ---------------
-Download [Full Academic CV]("files/Academic CV  Tiziana A. Gelmi Candusso_update_October2022.pdf")
+Download [Full Academic CV](files/CV.pdf)
