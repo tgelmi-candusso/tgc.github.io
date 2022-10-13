@@ -8,4 +8,4 @@ date: 2021-10-01
 location: "Toronto, Canada"
 ---
 
-[Omniscape tutorial](https://github.com/tgelmi-candusso/Omniscape_tutorial)
+Link to the tutorial material on [Github](https://github.com/tgelmi-candusso/Omniscape_tutorial)
