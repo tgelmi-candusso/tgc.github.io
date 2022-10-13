@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Tiziana Gelmi"
-  avatar           : "profile.png"
-  bio              : "Tiziana Gelmi Candusso is a research fellow at the University of Toronto. Her work focuses on applying computational methods to understand the spatial ecology of urban mammals, in particular mesopredators. She is particularly interested on how urbanization impacts their community and their ecological role as both predators and seed dispersers."
+  avatar           : "profile1.png"
+  bio              : "Movement ecologist at the University of Toronto. Her work focuses on applying computational methods to understand the spatial ecology of urban mammals, in particular mesopredators and the impact of urbanization on their community and their ecological contribution as predators and seed dispersers."
   location         : "Toronto, Canada"
   employer         :  
   pubmed           : 
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tgelmi-candusso.github.com"
+  github           : "tgelmi-candusso"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tagcandusso/"
-  orcid            : "https://orcid.org/0000-0003-0990-5255"
+  linkedin         : "tagcandusso"
+  orcid            : "0000-0003-0990-5255"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@UrbanZoochory"
+  twitter          : "UrbanZoochory"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCnZYpkriImG8uLWllRHKrfQ"
+  youtube          : "nZYpkriImG8uLWllRHKrfQ"
   wikipedia        :
 
 
