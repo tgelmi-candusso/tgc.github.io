@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tiziana Gelmi Candusso is a research fellow, hosted by the Fortin lab at the University of Toronto, as an awardee of the Walter Benjamin research fellowship funded by the German Research foundation. 
+Tiziana Gelmi Candusso is a research fellow, hosted by the Fortin lab at the University of Toronto, as an awardee of the Walter Benjamin research fellowship funded by the German Research foundation.
 
 Her work focuses on applying computational methods to understand the spatial ecology of urban mammals, in particular mesopredators. She is particularly interested on how urbanization impacts their community and their ecological contribution as predators and seed dispersers. 
 
