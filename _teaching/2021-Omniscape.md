@@ -9,3 +9,5 @@ location: "Toronto, Canada"
 ---
 
 Link to the tutorial material on [Github](https://github.com/tgelmi-candusso/Omniscape_tutorial)
+
+<embed src="OMNISCAPE_presentation.pdf" width="800px" height="2100px" />
