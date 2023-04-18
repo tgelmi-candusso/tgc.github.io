@@ -3,7 +3,7 @@ title: "Dynamic connectivity assessment for a terrestrial predator in a metropol
 collection: publications
 permalink: /publications/2023-03-09-coyoteurbanconnectivity
 excerpt: 'Spatial genetic structure (SGS) of plants results from the nonrandom distribution of related individuals. SGS provides information on gene flow and spatial patterns of genetic diversity within populations. We compared the proportions of studies with SGS among groups and tested for differences in strength of SGS using Sp statistics. The presence of SGS differed among taxonomic groups, with reduced presence in plants dispersed by birds. Strength of SGS was instead significantly influenced by the behaviour of seed dispersal vectors, with higher SGS in plant species dispersed by animals with behavioural traits that result in short seed dispersal distances'
-date: 2017-09-16
+date: 2023-03-09
 venue: 'Frontiers in Ecology and the environment'
 paperurl: '[https://10.1002/fee.2633](https://www.researchgate.net/publication/369831119_Dynamic_connectivity_assessment_for_a_terrestrial_predator_in_a_metropolitan_region)'
 citation: 'Gelmi-Candusso TA, Chin ATM, Thompson CA, McLaren AAD, Wheeldon TJ, Patterson BR, Fortin MJ. Dynamic connectivity assessment for a terrestrial predator in a metropolitan region. <i>Frontiers in Ecology and the environment. </i>.In press. doi:10.1002/fee.2633. '
