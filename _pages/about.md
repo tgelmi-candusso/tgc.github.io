@@ -16,7 +16,7 @@ Using GPS tracking data, she has analyzed the habitat use of Coyotes in Toronto,
 
 Previously, during her doctorate at Heymann's lab in Göttingen-Germany, she analyzed frugivore movement, its cascading effects on seed dispersal and its translation into plant population genetics. She developed a spatially-explicit individual-based model, assessed behavioral observations and analyzed the genetic components of plant populations using microsatellites. 
 
-Last publication accepted March 9 in Frontiers in Ecology and the Environment, in press version available here: https://www.researchgate.net/publication/369831119_Dynamic_connectivity_assessment_for_a_terrestrial_predator_in_a_metropolitan_region
+Last publication accepted March 9 in Frontiers in Ecology and the Environment, in press version available [here](https://www.researchgate.net/publication/369831119_Dynamic_connectivity_assessment_for_a_terrestrial_predator_in_a_metropolitan_region)
 
 
 
