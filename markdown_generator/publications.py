@@ -88,6 +88,8 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
+    md += "\npdf: '" + html_escape(item.pdf) + "'"
+    
     md += "\n---"
     
     ## Markdown description for individual page
