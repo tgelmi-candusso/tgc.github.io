@@ -2,7 +2,7 @@
 title: "Unveiling Urban Complexity: Research note on integrating OpenStreetMap to enhance representation of fine-scale landscape heterogeneity"
 collection: publications
 permalink: /publications/2023-11-04-urbanlandscape.md
-excerpt: 'We extract and integrate geographic features from OpenStreetMaps into a global landcover map to increase the representation of fine-scale landscape heterogeneity within urban areas.'
+excerpt: 'We extracted and integrateed geographic features from OpenStreetMaps into a global landcover map to increase the representation of fine-scale landscape heterogeneity within urban areas need for fine-scale ecological modeling.'
 date: 2023-11-03
 venue: 'biorxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2023.10.31.564785v1'
