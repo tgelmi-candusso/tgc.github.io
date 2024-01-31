@@ -5,7 +5,7 @@ permalink: /publications/2023-11-04-urbanlandscape.md
 excerpt: 'We extract and integrate geographic features from OpenStreetMaps into a global landcover map to increase the representation of fine-scale landscape heterogeneity within urban areas.'
 date: 2023-11-03
 venue: 'biorxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2023.10.31.564785v1'
+paperurl: '[Download pdf](https://github.com/tgelmi-candusso/tgelmi-candusso.github.io/blob/master/files/building_predator_bipartite_networks_gelmicandusso.pdf); https://www.biorxiv.org/content/10.1101/2023.10.31.564785v1'
 citation: 'Gelmi-Candusso, Tiziana A. ;Rodriguez, Peter;  Fortin, Marie-Josée (2023) Unveiling Urban Complexity: Research note on integrating OpenStreetMap to enhance representation of fine-scale landscape heterogeneity 
  <i> bioRxiv </i> 2023.10.31.564785; doi: https://doi.org/10.1101/2023.10.31.564785'
 pdf: '[Download pdf](https://github.com/tgelmi-candusso/tgelmi-candusso.github.io/blob/master/files/building_predator_bipartite_networks_gelmicandusso.pdf)'
