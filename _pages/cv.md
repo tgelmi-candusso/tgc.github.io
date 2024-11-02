@@ -18,24 +18,29 @@ Education
 
 Work experience
 ---------------
+* 2024 - ongoing: Research fellowship
+  * Urban Wildlife Institute
+  * Hauman-wildlife coexistence, One Health, Hierarchical Bayesian Analysis
+  * Supervisor: Dr. Seth Magle, Dr. Maureen Murray
+
 * 2019 - ongoing: Research fellowship
   * University of Toronto
-  * Duties included: Habitat selection models, landscape connectivity, Species occupancy, Agent-based modeling, Machine learning
-  * Supervisor: Professor Marie-Josee Fortin
+  * Habitat selection models, landscape connectivity, Species occupancy, Agent-based modeling, Machine learning
+  * Supervisor: Dr. Marie-Josee Fortin
 
 * 2014-2019: Doctorate research
   * German Primate Center
-  * Duties included: Agent-based modeling, Behavioral sampling, Population genetics sample, extraction and analysis. 
-  * Supervisor: Professor Eckhard W. Heymann
+  * Agent-based modeling, Behavioral sampling, Population genetics sample, extraction and analysis. 
+  * Supervisor: Dr. Eckhard W. Heymann
 
 * 2013-2014: Research assistant
   * Max Planck Institute
-  * Duties included: Molecular methods
+  * Molecular methods
 
 * 2012-2013: Master research
   * Helmholtz centre for Ocean research
-  * Duties included: Mesocosm design, behavioral observation, photosynthetic productivity assessement, Environmental calibration to recreate climate change
-  * Supervisor: Professor Martin Wahl
+  * Mesocosm design, behavioral observation, photosynthetic productivity assessement, Environmental calibration to recreate climate change
+  * Supervisor: Dr. Martin Wahl
 
 * Summer 2011: Internship - Behavioral observations - University of Victoria
 * Summer 2010: Internship - Ecotoxicological lab - University of Trieste
