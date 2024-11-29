@@ -19,7 +19,7 @@ Education
 Work experience
 ---------------
 * 2024 - ongoing: Research fellowship
-  * Urban Wildlife Institute
+  * Urban Wildlife Institute, Lincoln Park Zoo
   * Hauman-wildlife coexistence, One Health, Hierarchical Bayesian Analysis
   * Supervisor: Dr. Seth Magle, Dr. Maureen Murray
 
