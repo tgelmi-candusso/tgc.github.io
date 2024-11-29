@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Tiziana Gelmi Candusso is a research fellow (PDF) hosted by the Fortin lab at the University of Toronto through a Walter Benjamin research award (German Research foundation) and now funded through the School of Cities at U of T.
+Tiziana Gelmi Candusso is a research fellow (PDF) at the Urban Wildlife Instute, Lincoln Park Zoo for the NSF project integrated Socio-Environmental Systems to understand human-wildlife coexistence. Formerly hosted by the Fortin lab at the University of Toronto through a Walter Benjamin research award (German Research foundation) and later a School of Cities at U of T award.
 
-Her work focuses on applying computational methods to understand the spatial ecology of urban mammals, i.e. landscape connectivity, habitat selection, and machine learning models. She is particularly interested on how landscape impacts wildlife communities and their role in animal and plant-animal interactions.
+Focusing on understanding the impact of environmental change and urbanization on wildlife communities with the aim of achieving wildlife-inclusive cities. Research interests include applying computational methods to understand the spatial ecology of urban mammals, i.e. landscape connectivity, habitat selection, interspecific interactions, and computer vision for monitoring wildlife populations. 
 
-Lastest publication [here] (https://tgelmi-candusso.github.io/publications/)
+
 
 
  
